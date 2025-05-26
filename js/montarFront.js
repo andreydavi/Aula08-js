@@ -11,7 +11,7 @@ shows.forEach(show => {
                 <div class="card">
                     <a href="" class="text-decoration-none text-dark">
                     <img src="${show.banner}" class="card-img-top" 
-                    alt="${show.artista}">
+                    alt="${show.artista}" loading="lazy">
                     <div class="card-body">
 
                             <h4 class="my-3 bd-bottom">${show.artista}</h4>
