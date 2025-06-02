@@ -241,6 +241,27 @@ export const shows = [
     }
 ];
 
+/*-------------------------------- Objeto para criar a galeria --------------------------------*/
+export const galleryImages = [
+    { imagem: "./images/image5.jpg", descricao: "Luzes intensas no palco explosivo" },
+    { imagem: "./images/image0.jpg", descricao: "Guitarras distorcidas ecoam bem alto" },
+    { imagem: "./images/image6.jpg", descricao: "Público vibra com energia total" },
+    { imagem: "./images/image3.jpg", descricao: "Bateria marca o ritmo pesado" },
+    { imagem: "./images/image18.jpg", descricao: "Vocal gritado domina o ambiente" },
+    { imagem: "./images/image7.jpg", descricao: "Palco iluminado com fumaça densa" },
+    { imagem: "./images/image8.jpg", descricao: "Multidão salta ao som extremo" },
+    { imagem: "./images/image9.jpg", descricao: "Guitarrista solando com expressão intensa" },
+    { imagem: "./images/image10.jpg", descricao: "Banda agita a noite inteira" },
+    { imagem: "./images/image12.jpg", descricao: "Refrão cantado por todos juntos" },
+    { imagem: "./images/image4.jpg", descricao: "Pogo insano na frente do palco" },
+    { imagem: "./images/image13.jpg", descricao: "Camisetas pretas dominam a plateia" },
+    { imagem: "./images/image14.jpg", descricao: "Baixo ressoa nas caixas enormes" },
+    { imagem: "./images/image15.jpg", descricao: "Vocalista comanda com atitude crua" },
+    { imagem: "./images/image1.jpg", descricao: "Cabelos ao vento batendo cabeça" },
+    { imagem: "./images/image11.jpg", descricao: "Explosão sonora sacode o público" },
+    { imagem: "./images/image16.jpg", descricao: "Solo de guitarra arrepia geral" },
+    { imagem: "./images/image17.jpg", descricao: "Fãs enlouquecidos na grade metálica" },
+    { imagem: "./images/image2.jpg", descricao: "Clássico do rock fecha o show" },
+    { imagem: "./images/image19.jpg", descricao: "Palmas e gritos após o bis" }
+];
 
-
-  
